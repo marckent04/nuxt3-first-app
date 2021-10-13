@@ -8,6 +8,7 @@
     "resolveJsonModule": true,
     "types": [
       "node"
+      // "element-plus/global"
     ]
   }
 }
